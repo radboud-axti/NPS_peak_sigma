@@ -2,7 +2,7 @@
 Jupyter notebook for calculating the peak and sigma of a 1D NPS.
 Also it fits the parametrized NPS using the formula's with 2 and 5 parameters.
 
-Software license: MIT.
+Software license: [MIT](notebook/LICENSE).  
 
 ## Package dependencies
 - numpy
